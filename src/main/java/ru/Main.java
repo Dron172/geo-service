@@ -1,6 +1,9 @@
+package ru;
+
 import java.util.HashMap;
 import java.util.Map;
-
+import ru.netology.entity.Country;
+import ru.netology.geo.GeoServiceImpl;
 import ru.netology.geo.GeoService;
 import ru.netology.geo.GeoServiceImpl;
 import ru.netology.i18n.LocalizationService;
